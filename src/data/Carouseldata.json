@@ -1,0 +1,12 @@
+{
+    "slides": [
+      {
+        "src": "/src/assets/bg.jpg",
+        "alt": "THIS IS A PLACE WHERE TECHNOLOGY & CREATIVITY FUSED INTO DIGITAL CHEMISTRY"
+      },
+      {
+        "src": "/src/assets/about-bg.jpg",
+        "alt": "WE DON'T HAVE THE BEST BUT WE HAVE THE GREATEST TEAM"
+      }
+    ]
+  }
